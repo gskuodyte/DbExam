@@ -1,0 +1,272 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\StudentInformationSystem\\StudentInformationSystem.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\BusinessLogic\\BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\BusinessLogic\\BusinessLogic.csproj",
+        "projectName": "BusinessLogic",
+        "projectPath": "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\BusinessLogic\\BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\Greta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Greta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\Common\\Common.csproj"
+              },
+              "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\DBAccess\\DBAccess.csproj": {
+                "projectPath": "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\DBAccess\\DBAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\Greta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Greta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\DBAccess\\DBAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\DBAccess\\DBAccess.csproj",
+        "projectName": "DBAccess",
+        "projectPath": "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\DBAccess\\DBAccess.csproj",
+        "packagesPath": "C:\\Users\\Greta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\DBAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Greta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\StudentInformationSystem\\StudentInformationSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\StudentInformationSystem\\StudentInformationSystem.csproj",
+        "projectName": "StudentInformationSystem",
+        "projectPath": "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\StudentInformationSystem\\StudentInformationSystem.csproj",
+        "packagesPath": "C:\\Users\\Greta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\StudentInformationSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Greta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\BusinessLogic\\BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\BusinessLogic\\BusinessLogic.csproj"
+              },
+              "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\DBAccess\\DBAccess.csproj": {
+                "projectPath": "C:\\Users\\Greta\\Documents\\GitHub\\Exam\\StudentInformationSystem\\DBAccess\\DBAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
